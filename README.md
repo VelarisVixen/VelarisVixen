@@ -54,3 +54,24 @@
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 👁️ Drishti
+AI-powered crowd monitoring and anomaly detection platform.
+
+### 🏛️ Nivaran
+AI grievance redressal platform with Gemini-powered automation.
+
+### 🛡️ Attribution Guard
+Browser-based affiliate fraud detection and cybersecurity scanner.
+
+## 🏆 Achievements
+
+🥇 Microsoft Triwizard Hackathon Finalist
+(Selected among 1300+ teams)
+
+🥈 1st Runner-Up — Ideation Competition
+
+📱 Head of Social Media
+Technometer Club, Amity University Punjab
