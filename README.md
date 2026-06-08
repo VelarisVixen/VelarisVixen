@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @VelarisVixen.
-- 👀 I’m interested in book reading and texture art.
-- 🌱 I’m currently growing skills in python and ML.
-- 📫 How to reach me : aahanajk821@gmail.com 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I work better after a good meal.
+<h1 align="center">Hi 👋, I'm Aahana Kaur</h1>
+<h3 align="center">B.Tech CSE Student | AI & ML Enthusiast</h3>
 
+- 🔭 Currently working on AI & ML projects
+- 🌱 Learning Deep Learning and Generative AI
+- 👯 Looking to collaborate on OpenCV and ML projects
+- 💬 Ask me about Python, ML, Computer Vision
+- 📫 Reach me: aahanjk821@gmail.com
+- ⚡ Fun fact: I work better after a good meal 🍜
